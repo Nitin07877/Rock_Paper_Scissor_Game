@@ -28,7 +28,7 @@ This project is ideal for beginners learning programming fundamentals or web dev
 
 
 
-## 📂 Project Structure
+##  Project Structure
 ├── index.html
 ├── style.css
 └── script.js
